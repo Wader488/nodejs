@@ -129,6 +129,7 @@ cursor.hex('#09ff00').write('Score').reset().write(' - Отображение с
 cursor.hex('#09ff00').write('Exit').reset().write(' - Выход из программы\n');
 cursor.hex('#09ff00').write('Help').reset().write(' - Отображение этой справки\n\n');
 }
+
 hello();
 help();
 var score ="";
