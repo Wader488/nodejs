@@ -18,7 +18,10 @@
   "homepage": "https://github.com/Wader488/nodejs#readme",
   "dependencies": {
     "ansi": "^0.3.1",
+    "cheerio": "^1.0.0-rc.3",
     "minimist": "^1.2.5",
-    "pm2": "^4.4.0"
+    "nodemon": "^2.0.4",
+    "pm2": "^4.4.0",
+    "request": "^2.88.2"
   }
 }
